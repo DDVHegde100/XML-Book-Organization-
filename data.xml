@@ -1,1 +1,31 @@
-﻿Valid XML
+<?xml version="1.0" encoding="UTF-8"?>
+<LibraryBookSystem>
+<books>
+    <name>Brief History of Stephan Hawking </name>
+    <description>
+   160 IQ Dude calims that the only two people who enjoy their jobs are Scientists and Prostitutes. 
+   </description>
+    <author>Stephan Hawking</author>
+</books>
+<books>
+    <name>Hary Potter</name>
+    <description>
+    Racist white boy kills disabled gray dude with no nose. 
+    </description>
+    <author>JK Rowling</author>
+</books>
+<books>
+    <name>The Hobbit, or There and Back Again</name>
+    <description>
+    Dwarfs geologists kill insanely rich dragon because they want a rock.
+    </description>
+    <author>JRR Tolkien</author>
+</books>
+<books>
+    <name>Series of Unfortunate Events</name>
+    <description>
+    Tall vampire grandpa tries to kill rich orphans who have many relatives.
+    </description>
+    <author>Lemony Snicket</author>
+</books>
+</LibraryBookSystem>
